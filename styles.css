@@ -1,0 +1,24 @@
+div{
+    margin: 0 auto;
+    width: 1200px;
+    border: 2px solid gray;
+    text-align: center;
+    background-color: aliceblue;
+}
+
+ul {
+    margin: 0;
+    padding-left: 0;
+    list-style: none;
+}
+
+.home-links {
+    padding: 6px;
+    list-style: none;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+
+}
